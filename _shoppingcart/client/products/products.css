@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+}
+.well{
+        margin-top:10px;
+        margin-right: 5px;
+        margin-left:5px;
+}
+.prodlist{
+    height:600px;
+    overflow-x:hidden;
+    overflow-y:auto;
+    opacity: 0.8;
+    font-weight: 700;
+}
+
+.thumbnail{
+    width:90px;
+}
+h1{
+	color: red;
+}
+.addcart1 a{
+	opacity:1; 
+	margin-right: 5px;
+
+}

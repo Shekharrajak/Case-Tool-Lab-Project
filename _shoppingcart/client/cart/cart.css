@@ -1,0 +1,14 @@
+
+td.totalcol{
+    text-align: right;
+}
+td{
+	background-color: white;
+}
+
+.page-header{
+	border-bottom-color: black;
+	color: green;
+	
+	padding: 0 0 0 0;
+}
